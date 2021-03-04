@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "Daft Font";
+    src: url("fonts/Daft\ Font.TTF") format("truetype");
+}
+body {
+    background-color: black;
+}
+
+.navbar-brand{
+    font-family: 'Daft Font';
+}
+
+.nav-link {
+    font-family: 'Underdog', cursive;
+}
+.header-groups {
+    font-family: 'Daft Font';
+    color: red;
+    /*text-shadow: 2px 2px black;*/
+}
+.lead p{
+    color: white;
+    font-family: 'Underdog', cursive;
+
+}
+
+h2 {
+    color: #457b9d;
+    font-family: 'Lobster', cursive;
+}
+
+@media (min-width: 1200px){
+.header-groups h1 {
+    font-size: 3.5rem;
+}
+}
