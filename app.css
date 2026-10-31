@@ -1,20 +1,16 @@
-@font-face {
-    font-family: "Daft Font";
-    src: url("fonts/Daft\ Font.TTF") format("truetype");
-}
 body {
     background-color: black;
 }
 
 .navbar-brand{
-    font-family: 'Daft Font';
+    font-family: 'Lobster', cursive;
 }
 
 .nav-link {
     font-family: 'Underdog', cursive;
 }
 .header-groups {
-    font-family: 'Daft Font';
+    font-family: 'Lobster', cursive;
     color: red;
     /*text-shadow: 2px 2px black;*/
 }
@@ -33,4 +29,9 @@ h2 {
 .header-groups h1 {
     font-size: 3.5rem;
 }
+}
+section img {
+    display: block;
+    width: 100%;
+    height: auto;
 }

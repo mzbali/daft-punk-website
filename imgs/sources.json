@@ -1,0 +1,26 @@
+{
+  "source": "User-provided Daft Punk wallpaper folder",
+  "note": "Selected from the supplied collection; the original four selections could not be confirmed.",
+  "images": [
+    {
+      "asset": "imgs/daft-1.jpg",
+      "source_filename": "music-Daft-Punk-artwork-red-background-1737227.jpg",
+      "processing": "Resized to 1400 pixels on the longest edge."
+    },
+    {
+      "asset": "imgs/daft-2.jpg",
+      "source_filename": "859539-amazing-daft-punk-backgrounds-1920x1080-phone.jpg",
+      "processing": "Resized to 1400 pixels on the longest edge."
+    },
+    {
+      "asset": "imgs/daft-3.jpg",
+      "source_filename": "506263.jpg",
+      "processing": "Resized to 1400 pixels on the longest edge."
+    },
+    {
+      "asset": "imgs/daft-4.jpg",
+      "source_filename": "cropped-1920-1080-205007.jpg",
+      "processing": "Resized to 1400 pixels on the longest edge."
+    }
+  ]
+}
